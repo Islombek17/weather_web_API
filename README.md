@@ -1,12 +1,12 @@
 
 ### Weather App
-Here I am sharing how to code a Weather App with javascript, while using a weather API.
+I am sharing a Weather App implemented in JavaScript, which utilizes an API.
 
 ## Warning
-You need to get your own API key and replace it in index.js file on line 9 :
+You need to obtain your own API key and replace it in the app.js file, specifically on line 9:
 
 ```javascript
-const APIKey = 'Your API Key';
+const APIKey = 'API Key';
 ```
 
 
