@@ -13,4 +13,4 @@ const APIKey = 'Your API Key';
 # Screenshot
 Here is a project screenshot :
 
-![screenshot](screenshot.jpg)
+![screenshot](result_img.png)
